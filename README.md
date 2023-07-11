@@ -18,4 +18,4 @@ This will expose such classes of sensor events through a set of streams:
 
 These events are exposed through a `BroadcastStream`: `accelerometerEvents`, `userAccelerometerEvents`, `gyroscopeEvents`, and `magnetometerEvents`, respectively.
 
-![https://www.youtube.com/watch?v=Fq5zNPJufD0]()
+[video sensors_plus](https://www.youtube.com/watch?v=Fq5zNPJufD0)
