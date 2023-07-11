@@ -1,7 +1,7 @@
 # sensors
 
 any device has built-in sensors to measure orientation, motion or other environmental conditions with a very high accuracy. To monitor the three-dimensional data the device
- you can use the official sensors_plus package.
+ you can use the official [`sensors_plus`](https://pub.dev/packages/sensors_plus) package.
 
 Flutter plugin to access the accelerometer, gyroscope, and magnetometer sensors.
 
@@ -18,5 +18,4 @@ This will expose such classes of sensor events through a set of streams:
 
 These events are exposed through a `BroadcastStream`: `accelerometerEvents`, `userAccelerometerEvents`, `gyroscopeEvents`, and `magnetometerEvents`, respectively.
 
-<https://pub.dev/packages/sensors_plus>
-<https://www.youtube.com/watch?v=Fq5zNPJufD0>
+[video_sensors_plus](https://www.youtube.com/watch?v=Fq5zNPJufD0)
